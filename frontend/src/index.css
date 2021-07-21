@@ -12,3 +12,8 @@ a{
 h3{
     padding: 1rem 0;
 }
+
+.padding{
+    width: 15rem;
+    margin-left: 1rem;
+}
